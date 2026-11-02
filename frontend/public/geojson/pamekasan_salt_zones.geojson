@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": 1,
+        "zone_name": "Sentra Tambak Garam Galis (Lembung - Konang)",
+        "sub_district": "Galis",
+        "regency": "Pamekasan",
+        "total_area_ha": 485.50,
+        "crystallization_area_ha": 340.00,
+        "brine_storage_capacity_m3": 185000.00,
+        "default_geomembrane_ratio": 0.25,
+        "active_farmers_count": 420
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.5600, -7.1850],
+            [113.6150, -7.1850],
+            [113.6250, -7.2150],
+            [113.5700, -7.2180],
+            [113.5550, -7.1980],
+            [113.5600, -7.1850]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": 2,
+        "zone_name": "Sentra Tambak Garam Pademawu (Bunder - Majungan)",
+        "sub_district": "Pademawu",
+        "regency": "Pamekasan",
+        "total_area_ha": 620.00,
+        "crystallization_area_ha": 450.00,
+        "brine_storage_capacity_m3": 240000.00,
+        "default_geomembrane_ratio": 0.35,
+        "active_farmers_count": 560
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.4850, -7.1880],
+            [113.5500, -7.1860],
+            [113.5550, -7.2180],
+            [113.4900, -7.2250],
+            [113.4780, -7.2050],
+            [113.4850, -7.1880]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": 3,
+        "zone_name": "Sentra Tambak Garam Tlanakan (Kramat - Branta)",
+        "sub_district": "Tlanakan",
+        "regency": "Pamekasan",
+        "total_area_ha": 310.20,
+        "crystallization_area_ha": 215.00,
+        "brine_storage_capacity_m3": 115000.00,
+        "default_geomembrane_ratio": 0.15,
+        "active_farmers_count": 280
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.4200, -7.1950],
+            [113.4750, -7.1920],
+            [113.4780, -7.2200],
+            [113.4300, -7.2300],
+            [113.4150, -7.2100],
+            [113.4200, -7.1950]
+          ]
+        ]
+      }
+    }
+  ]
+}
